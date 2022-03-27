@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+나무처럼 하루하루 꾸준히 성장하는 개발자의 연구실입니다.
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+추가 예정
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lemoin@naver.com](mailto:email@domain.com)
